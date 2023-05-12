@@ -94,4 +94,4 @@ All the notes I took in [Markdown](https://daringfireball.net/projects/markdown/
 
 # License
 
-Licensed under the MIT License, Copyright © 2017-present Hsins.
+Licensed under the MIT License, Copyright © 2017.
